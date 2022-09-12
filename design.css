@@ -1,0 +1,43 @@
+.input-group-append {
+  cursor: pointer;
+}
+th {
+    text-align: center; /* Or right or left */
+}
+.card{
+    width:380px;
+    border:none;
+    height:280px;
+}
+.box {
+  border-radius: 3px;
+  height: 20px;
+  width: 20px;
+  border: 1px solid black;
+  margin-right : 5px;
+  display : inline-block;
+  align-items : center;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+.white {
+  background-color: white;
+}
+
+.black {
+  background-color: black;
+}
+
+.gray {
+  background-color: gray;
+}
